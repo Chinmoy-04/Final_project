@@ -5,17 +5,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pepperfry Login</title>
+    <title></title>
     <link rel="website icon" type="png"
      href="./images/wesiteIcon.jpeg">
 </head>
-<link rel="stylesheet" href="./src/login.css">
+<link href="./src/login.css" rel="stylesheet" >
 
 <body>
     <div id="login">
         <div class="container">
             <div class="leftSidePopUp">
-                <div class="whySide">
+                <!-- <div class="whySide">
                     <h2>Why login?</h2>
                     <p> <img src="https://img6.hkrtcdn.com/react/static/media/signupFlow/white-bg-tick.svg" alt="">
                         Manage your orders</p>
@@ -25,7 +25,7 @@
                     <p><img src="https://img6.hkrtcdn.com/react/static/media/signupFlow/white-bg-tick.svg"
                             alt="">Personalized
                         Recommendations</p>
-                </div>
+                </div> -->
             </div>
             <div class="rightSidePopUp">
                 <div class="loginPage">

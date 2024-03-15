@@ -7,19 +7,19 @@ include ('connection.php') ?>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Furniture Shopping Store</title>
+    <title></title>
     <link rel="website icon" type="png"
      href="./images/wesiteIcon.jpeg">
      <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="navbar-1">
-   <div id="nav-left">
+   <!-- <div id="nav-left">
     <a href="#">Sell on Pepperfry</a>   
     <a href="#">Become a Franchisee</a>
     <a href="#">Buy in Bulk</a>
     <a href="#">Find a Studio</a>
-   </div>
+   </div> -->
    <div href="#" id="nav-right">
 
    <?php

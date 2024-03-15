@@ -1,15 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100&family=Source+Sans+Pro:ital,wght@0,300;0,400;1,200;1,300&display=swap');
 
-/* pooja css -1sr */
-* {
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-}
+
 
 #login {
-    background-image: url('https://entrackr.com/storage/2017/09/pepperfry-image__1505901195_150.242.73.142-1200x600.jpg');
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Doff%2Bwhite%2Bbackground&psig=AOvVaw0Vh0LvRPQdFUd8XgGiHuVe&ust=1710617242349000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDM3Pj_9oQDFQAAAAAdAAAAABAE');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -29,14 +24,14 @@
     /* border:2px solid red; */
 }
 
-
+/* 
 .leftSidePopUp {
-    width: 250px;
+    width: 250px; */
     /* background-color: black; */
-    padding: 1rem;
+    /* padding: 1rem;
     background-image: linear-gradient(to bottom right, rgb(216, 102, 27), white);
 
-}
+} */
 
 .leftSidePopUp .whySide {
     margin: 10px 5px;
